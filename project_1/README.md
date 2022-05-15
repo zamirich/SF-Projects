@@ -15,7 +15,8 @@
 :arrow_up:[к оглавлению](https://github.com/zamirich/SF-Part-1/tree/main/project_1/README.md#Оглавление)
 
 ### Краткая информация о данных
-....
+1. Исходный датасет можно скачать [здесь.](https://drive.google.com/file/d/1XDQjhZ8FFdp81Rbg5WaGvH8HqZXlfYrP/view?usp=sharing)
+2. Курсы валют можно скачать [здесь.](https://drive.google.com/file/d/1MAl1CQ5w7DM8El4DiMzhRw6BPVRb_s55/view?usp=sharing)
   
 :arrow_up:[к оглавлению](https://github.com/zamirich/SF-Part-1/tree/main/project_1/README.md#оглавление)
 
