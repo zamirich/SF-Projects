@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects 
 [0. Game: Guess the number](https://github.com/zamirich/SF-Part-1/tree/main/project_0)  
-[1. __________](___)      
+[1. Headhunter vacancies analysis](https://github.com/zamirich/SF-Part-1/tree/main/project_1)      
 [2. __________](___)        
 
 ### Links to CV
