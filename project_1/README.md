@@ -28,7 +28,7 @@
 
 
 ### Результаты:  
-....
+GitHub не поддерживает отображение интерактивной визуализации в Plotly. Графики, построенные с помощью Plotly, могут не отображаться на странице репозитория. Поэтому они сохранены в виде PNG файлов в отдельной [папке.](https://github.com/zamirich/SF-Part-1/tree/main/project_1/plots)
 
 :arrow_up:[к оглавлению](https://github.com/zamirich/SF-Part-1/tree/main/project_1/README.md#оглавление)
 
